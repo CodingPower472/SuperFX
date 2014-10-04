@@ -1,6 +1,6 @@
 var imgObj = null;
 function init(){
-   imgObj = document.getElementById('myImage');
+   imgObj = document.getElementById('background');
    imgObj.style.position= 'relative'; 
    imgObj.style.left = '0px'; 
 }
